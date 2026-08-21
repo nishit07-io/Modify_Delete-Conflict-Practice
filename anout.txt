@@ -1,2 +1,4 @@
 This is a Git Project.
 I am learning Git and GitHub, PR and Conflict Resolution
+Lerning how to solve merge Conflict.
+deleted merge Conflict
